@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is tpoy.</h1>
+<h1 align="center">Hi 👋, My name is Tpoy (th0nk).</h1>
 <h3 align="center">I am a basic coder, and small GAMEDEV.</h3>
 
 - 🔭 I’m currently working on Evidence, an Among Us styled horror stealth game
