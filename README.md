@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Charlie (th0nk).</h1>
 <h3 align="center">I am a basic coder, and small GAMEDEV.</h3>
 
-- 🔭 I’m currently working on Evidence, an Among Us styled horror stealth game
+- 🔭 I’m currently working on GetCr4ck, a batch file that will download cracked programs for you.
 
 - 🌱 I’m currently learning **C#**
 
