@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Cloney.</h1>
-<h3 align="center">I am a young developer, owner of [MeetingBOT](http://invite.meetingbot.ml).</h3>
+<h3 align="center">I am a young developer, owner of MeetingBOT (http://invite.meetingbot.ml BTW).</h3>
 
 - 🔭 I’m currently working on MalwatTool, a Replacement for the Malwat.ch website as of its takedowns.
 
