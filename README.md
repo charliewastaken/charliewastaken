@@ -14,6 +14,6 @@ MeetingBOT is coded in <img src="https://upload.wikimedia.org/wikipedia/commons/
 
 <h1 align="center"><img align="center" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="48" height="48" alt="Discord"> Invite Link</h3>
 
-<a href="http://meetingbot.ml">
+<a href="http://invite.meetingbot.ml">
     <h3 align="center">Click me!</p>
 </a>
