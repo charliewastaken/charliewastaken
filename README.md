@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, My name is Cloney.</h1>
 <h3 align="center">I am a young developer, owner of MeetingBOT (http://invite.meetingbot.ml BTW).</h3>
 
-- 🔭 I’m currently working on MalwatTool, a Replacement for the Malwat.ch website as of its takedowns.
+- 🔭 I’m currently working on UserProfileBG, a alternative to [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
 
-- 🌱 I’m currently learning **C and .JS**
+- 🌱 I’m currently learning **CSS, HTML and .JS**
 
-- 📫 To contact me, add me on discord: **CloneyInnit#3262** or dm me on twitter: [@CloneyInnit](https://twitter.com/cloneyinnit)
+- 📫 To contact me, add me on discord: **CloneyInnit#3262** or dm me on twitter: [@chrliedev](https://twitter.com/chrliedev)
 
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/729937607949156352/808431452852191242/spotkaniebot_2.0.png" width="48" height="48" alt="MeetingBOT"> My Discord Bot</h1>
 
