@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on BetterBG, a alternative to [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
 
+- ⚡ Most of my discord-related projects can be found in my organization, [Flashcord!](https://github.com/Flashc0rd)
+
 - 🌱 I’m currently learning **CSS, HTML and .JS**
 
 - 📫 To contact me, add me on discord: **CloneyInnit#3262** or dm me on twitter: [@chrliedev](https://twitter.com/chrliedev)
