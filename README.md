@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, My name is Cloney.</h1>
 <h3 align="center">I am a young developer, owner of MeetingBOT (http://invite.meetingbot.ml BTW).</h3>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cloneyinnit&theme=material-palenight)
 - 🔭 I’m currently working on BetterBG, a alternative to [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
 
 - ⚡ Most of my discord-related projects can be found in my organization, [Flashcord!](https://github.com/Flashc0rd)
